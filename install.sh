@@ -12,12 +12,14 @@ nix-env -iA \
 	nixpkgs.zsh \
 	nixpkgs.antibody \
 	nixpkgs.git \
+	nixpkgs.alacritty \
 	nixpkgs.neovim \
 	nixpkgs.tmux \
 	nixpkgs.stow \
 	nixpkgs.fzf \
 	nixpkgs.ripgrep \
-	nixpkgs.bat 
+	nixpkgs.bat \
+	
 
 ### Add zsh to valid login shells
 
